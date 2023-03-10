@@ -121,7 +121,7 @@ const Login = () => {
                           className="form-control Login-Input"
                           type="password"
                           name="password"
-                          placeholder="Password"
+                          placeholder="Valid Password"
                           onChange={(e) => {
                             setUserData({
                               ...userdata,
